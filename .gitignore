@@ -9,3 +9,6 @@ yarn.lock
 package-lock.json
 debug.log
 build/
+
+yarn.lock
+dist/
